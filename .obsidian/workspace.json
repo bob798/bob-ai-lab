@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文章模板.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文章模板"
+              "title": "README"
             }
           }
         ],
@@ -298,19 +298,20 @@
   },
   "active": "7cba4c144a7300a5",
   "lastOpenFiles": [
-    "Pasted image 20260311145622.png",
-    "Pasted image 20260311145650.png",
-    "README.md",
-    "Pasted image 20260311185238.png",
-    "文章模板.md",
-    "03-案例复盘/一次意图理解错误的复盘.md",
-    "03-案例复盘/工程决策日志.md",
+    "发布模板.md",
+    "01-产品方法论/独立开发者产品决策框架.md",
     "02-AI协作方法/AI对话策略：渐进式、全局式与参照系切换.md",
     "02-AI协作方法/如何和AI高效协作.md",
+    "README.md",
+    "文章模板.md",
+    "Pasted image 20260311145622.png",
+    "Pasted image 20260311145650.png",
+    "Pasted image 20260311185238.png",
+    "03-案例复盘/一次意图理解错误的复盘.md",
+    "03-案例复盘/工程决策日志.md",
     "99-草稿/产品方法论阅读路径.md",
     "Pasted image 20260311145900.png",
     "99-草稿/内容整合计划.md",
-    "01-产品方法论/独立开发者产品决策框架.md",
     "01-产品方法论/AI时代的需求管理.md",
     "02-AI协作方法/如何和AI高效协作-改稿提纲.md",
     "01-产品方法论/独立开发者产品决策框架-改稿提纲.md",
